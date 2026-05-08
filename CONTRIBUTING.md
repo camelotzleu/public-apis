@@ -52,5 +52,6 @@ After you've created a branch on your fork with your changes, it's time to [make
 * Continue to follow the alphabetical ordering that is in place per section.
 * Each table column should be padded with one space on either side.
 * The Description should not exceed 100 characters.
-* Descriptions should be written in plain English and avoid unnecessary technical jargon.
-* Descriptions should not end with a period.
+* Descriptions should be written in plain English.
+* Descriptions should not be promotional in nature and should objectively describe the API.
+* No duplicate entries — search the existing list before submitting a new API.
